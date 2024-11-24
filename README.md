@@ -116,7 +116,7 @@ K
 Keluar dari program.
 ```
 ## flowchart
-![387596372-76eeb08d-a043-4e64-9cbe-de705b0ecdb7](https://github.com/user-attachments/assets/3e6e40a0-ac75-4896-a047-0f06a477741b)
+![flowchart](flowchart.jpg)
 
 ## Penjelasan 
 - Fungsi : Setiap bagian yang diawali dengan def adalah sebuah fungsi. Fungsi ini memiliki tugas khusus, seperti menampilkan menu, menambahkan data, mengubah data, dan sebagainya.
