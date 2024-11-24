@@ -1,3 +1,6 @@
+``` python
+
+
 def tampilkan_menu():
     print("\n[(L)ihat, (T)ambah, (U)bah, (H)apus, (C)ari, (K)eluar]:")
 
